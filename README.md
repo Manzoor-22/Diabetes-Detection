@@ -40,19 +40,19 @@ The project involves the following main steps:
 
 # Performances of Different Models
 
-- Logistic Regression
+- ***Logistic Regression***
   
   Accuracy = 75.324%
   
   Precision = 67.272%
 
-- Decision Tree Classifier
+- ***Decision Tree Classifier***
 
   Accuracy = 74.675%
 
   Precision = 72.727%
 
-- GaussianNB Classifier
+- ***GaussianNB Classifier***
 
   Accuracy = 76.623%
 
